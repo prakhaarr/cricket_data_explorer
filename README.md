@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analysis with PySpark
 
-![IPL Analysis](/screenshots/team performance after winning toss.png)
+![IPL Analysis](/screenshots/team%20performance%20after%20winning%20toss.png)
 
 Welcome to **IPL Data Analysis**, a deep dive into the world of cricket using data science techniques. This project explores various facets of IPL matches to uncover insights and patterns that could be critical for teams and players.
 
